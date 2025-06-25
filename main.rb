@@ -4,7 +4,6 @@
 
 class Vehicle
     attr_accessor :horse_power, :fuel_tank_number
-
     def initialize(horse_power, fuel_tank_number)
         @horse_power = horse_power
         @fuel_tank_number = fuel_tank_number
