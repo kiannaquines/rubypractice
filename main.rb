@@ -1,4 +1,4 @@
-# Ruby is a developer programming language.
+# Ruby is a developer friendly programming language.
 # Developed by: Kian Naquines
 # Date: 23/06/2025
 
